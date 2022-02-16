@@ -297,6 +297,25 @@
             "dj_name": "name",
             "listeners": null,
             "listeners_data": "listeners"
+        },
+        {
+        "id": 15,
+        "name": "SmashFM",
+        "shortcode": "SMFM",
+        "aliases": ["SMFM"],
+        "stream": "https://server02.wearesmash.net/radio/8000/radio.mp3",
+        "website": "https://wearesmash.net/",
+        "logo": "https://wearesmash.net/logo.png",
+        "hex": "#ff1692",
+        "api": {
+            "url": "https://cors.xonos.gg/api.wearesmash.net/stats",
+            "song": "song",
+            "song_title": "title",
+            "song_artist": "artist",
+            "dj": "dj",
+            "dj_name": "name",
+            "listeners": null,
+            "listeners_data": "listeners"
         }
-    }
+    },
 ]
